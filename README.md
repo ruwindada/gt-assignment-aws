@@ -1,5 +1,4 @@
 # Interview-Assignment-AWS-19AUG2022
-# About architecture
 
 Design and implement following AWS services to host a “Hello World” application with high availability and resiliency using Terraform and GitHub.
 The customer wants to optimize the cost by stopping the instances during weekend and after office hours by leveraging an automated script and scheduler without any manual intervention.
